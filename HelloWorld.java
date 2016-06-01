@@ -7,6 +7,7 @@ public class HelloWorld {
     // when we run our app,
     // main() is run first
     public static void main(String[] args) {
+        System.out.print('\u000C');
         System.out.println("Hi.  My name is Bryon.  I was born in Seymour, Indiana, same birthplace as John Cougar Mellencamp.");
         System.out.println("The library in Seymour has an exhibit of oil paintings by Mellencamp on display.");
         System.out.println("IKR. I didn't know he was a painter either.");
