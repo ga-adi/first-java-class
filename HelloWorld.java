@@ -10,7 +10,7 @@ public class HelloWorld {
         System.out.println("I was rained on today.");
         System.out.println("I made a slow cooker meal for the first time last night!");
         System.out.println("I am enjoying this class.");
-
+        System.out.println("I think this will work now.");
 
 
     }
