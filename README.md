@@ -1,4 +1,4 @@
-# first-java-class
+# Your First Java Class
 Let's create your first Java class!
 
 1. Fork this repository!
